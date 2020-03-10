@@ -1,0 +1,8 @@
+{
+    "Account": true,
+    "Authentication": true,
+    "Frontend": true,
+    "Dashboard": true,
+    "MobileApp": true,
+    "GitLab": true
+}

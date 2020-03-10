@@ -1,0 +1,13 @@
+{
+    "name": "GitLab",
+    "alias": "gitlab",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\GitLab\\Providers\\GitLabServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

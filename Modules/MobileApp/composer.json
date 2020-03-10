@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/mobileapp",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\MobileApp\\Providers\\MobileAppServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\MobileApp\\": ""
+        }
+    }
+}
